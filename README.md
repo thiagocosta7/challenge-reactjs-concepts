@@ -7,6 +7,6 @@ Application developed using [React](https://pt-br.reactjs.org/) which allows to 
 # install packages
 yarn
 
-# run server and start app
+# start app
 yarn start
 ```
